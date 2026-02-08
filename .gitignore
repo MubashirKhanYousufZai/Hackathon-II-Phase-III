@@ -1,0 +1,27 @@
+# Python virtual environments
+frontend/venv/
+backend/venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+*.idea/
+
+backend/todos.db
+backend/.env
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Node (agar future me use ho)
+node_modules/
+
+# OS
+.DS_Store
